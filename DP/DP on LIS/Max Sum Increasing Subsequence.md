@@ -1,6 +1,6 @@
 # 300. Longest Increasing Subsequence
 
-[Problem Link](https://leetcode.com/problems/longest-increasing-subsequence/)
+[Problem Link](https://www.geeksforgeeks.org/problems/maximum-sum-increasing-subsequence4749/1)
 
 
 ## Recurssive Approach - Top Down Approach
